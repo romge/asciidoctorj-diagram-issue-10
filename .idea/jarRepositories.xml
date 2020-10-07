@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="70d5e9fa-4080-4405-aee0-690afc820cf4" />
+      <option name="name" value="70d5e9fa-4080-4405-aee0-690afc820cf4" />
+      <option name="url" value="https://linuxbuild01.cryptas.com/artifactory/libs-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="92bf73aa-26f4-467e-87b0-b26f10ba51e6" />
+      <option name="name" value="92bf73aa-26f4-467e-87b0-b26f10ba51e6" />
+      <option name="url" value="https://linuxbuild01.cryptas.com/artifactory/plugins-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="cc129706-4a81-406e-95e2-6141ffe0c927" />
+      <option name="name" value="cc129706-4a81-406e-95e2-6141ffe0c927" />
+      <option name="url" value="https://linuxbuild01.cryptas.com/artifactory/libs-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="b3a7063d-11ce-4de3-9a90-0e4d02b82825" />
+      <option name="name" value="b3a7063d-11ce-4de3-9a90-0e4d02b82825" />
+      <option name="url" value="https://linuxbuild01.cryptas.com/artifactory/plugins-release" />
+    </remote-repository>
+  </component>
+</project>

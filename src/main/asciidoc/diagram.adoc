@@ -1,0 +1,8 @@
+= Diagram
+
+[plantuml]
+-----
+@startuml
+object Test
+@enduml
+-----

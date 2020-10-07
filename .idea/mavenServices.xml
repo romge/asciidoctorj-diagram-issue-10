@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenServices">
+    <service-url>https://linuxbuild01.cryptas.com/artifactory/api</service-url>
+  </component>
+</project>
